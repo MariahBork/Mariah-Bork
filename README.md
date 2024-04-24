@@ -8,8 +8,10 @@
 
 ![Mariah GitHub stats](https://github-readme-stats.vercel.app/api?username=MariahBork&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que usi no meu dia
+
+## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
