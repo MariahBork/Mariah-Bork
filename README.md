@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariahBork)](https://github.com/MariahBork/github-readme-stats)
 
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso nos meus projetos
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
